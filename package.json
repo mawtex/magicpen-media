@@ -6,6 +6,7 @@
     "type": "git",
     "url": "https://github.com/unexpectedjs/magicpen-media.git"
   },
+  "license": "MIT",
   "main": "lib/magicPenMedia.js",
   "author": "Andreas Lind <andreas@one.com>",
   "devDependencies": {
